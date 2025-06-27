@@ -103,7 +103,7 @@ public class Application {
             System.out.println("3. Cerca per prezzo");
             System.out.println("4. Cerca giochi da tavolo per numero giocatori");
             System.out.println("5. Rimuovi gioco per ID");
-            System.out.println("6. Aggiorna gioco per ID");
+            System.out.println("6. Modifica gioco per ID");
             System.out.println("7. Statistiche");
             System.out.println("8. Stampa tutti i giochi");
             System.out.println("0. Esci");
