@@ -13,7 +13,7 @@ public class Application {
         //VIDEOGIOCHI
         Videogiochi gioco1 = new Videogiochi(
                 1,
-                "Hollow Knigt",
+                "Hollow Knight",
                 2017,
                 24.99,
                 "PS5",
